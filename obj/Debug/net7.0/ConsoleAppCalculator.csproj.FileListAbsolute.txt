@@ -1,0 +1,15 @@
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\bin\Debug\net7.0\ConsoleAppCalculator.exe
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\bin\Debug\net7.0\ConsoleAppCalculator.deps.json
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\bin\Debug\net7.0\ConsoleAppCalculator.runtimeconfig.json
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\bin\Debug\net7.0\ConsoleAppCalculator.dll
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\bin\Debug\net7.0\ConsoleAppCalculator.pdb
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\obj\Debug\net7.0\ConsoleAppCalculator.csproj.AssemblyReference.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\obj\Debug\net7.0\ConsoleAppCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\obj\Debug\net7.0\ConsoleAppCalculator.AssemblyInfoInputs.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\obj\Debug\net7.0\ConsoleAppCalculator.AssemblyInfo.cs
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\obj\Debug\net7.0\ConsoleAppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\obj\Debug\net7.0\ConsoleAppCalculator.dll
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\obj\Debug\net7.0\refint\ConsoleAppCalculator.dll
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\obj\Debug\net7.0\ConsoleAppCalculator.pdb
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\obj\Debug\net7.0\ConsoleAppCalculator.genruntimeconfig.cache
+C:\Users\abdie\OneDrive\Desktop\StudyCoding\ConsoleAppCalculator\obj\Debug\net7.0\ref\ConsoleAppCalculator.dll
